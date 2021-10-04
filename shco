@@ -1,0 +1,10 @@
+#!/bin/bash
+ohgini=$(ls -1)
+shcku (){
+shc -r -f $sayang  -o /root/enkrip/$sayang
+rm -rf $sayang.x.c
+}
+for sayang in $ohgini 
+do
+        shcku;
+done
